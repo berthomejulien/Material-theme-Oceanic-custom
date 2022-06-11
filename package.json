@@ -1,8 +1,24 @@
 {
     "name": "material-theme-oceanic-custom",
     "displayName": "Material Theme Oceanic custom",
-    "description": "",
+    "description": "A custom VS Code theme. Enjoy it !",
     "version": "0.0.1",
+    "publisher": "berthomejulien",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/berthomejulien/Material-theme-Oceanic-custom"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "berthomejulien",
+        "berthome",
+        "material",
+        "material oceanic",
+        "oceanic",
+        "custom",
+        "custom theme"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
