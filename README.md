@@ -4,8 +4,16 @@
     <img src="logo.png" width="250" height="250" alt="logo"></img>
 </div>
 
------
+\
+&nbsp;
 
+## It looks like this
+---
+\
+&nbsp;
+![laptop-full](IDE_view.png)
+\
+&nbsp;
 \
 &nbsp;
 
@@ -28,15 +36,6 @@ This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc
 \
 &nbsp;
 [Direct link to Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=berthomejulien.material-theme-oceanic-custom)
-\
-&nbsp;
-\
-&nbsp;
-## It looks like this
----
-\
-&nbsp;
-![laptop-full](IDE_view.png)
 \
 &nbsp;
 \
