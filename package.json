@@ -1,7 +1,7 @@
 {
     "name": "material-theme-oceanic-custom",
     "displayName": "Material Theme Oceanic custom",
-    "description": "A custom VS Code theme. Enjoy it !",
+    "description": "A VSCode theme for Flutter",
     "version": "0.4.0",
     "publisher": "berthomejulien",
     "icon": "marketplace_icon.png",
@@ -18,7 +18,11 @@
         "material oceanic",
         "oceanic",
         "custom",
-        "custom theme"
+        "custom theme",
+        "dart",
+        "flutter",
+        "flutter theme",
+        "android studio"
     ],
     "engines": {
         "vscode": "^1.68.0"

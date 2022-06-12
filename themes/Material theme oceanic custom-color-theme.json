@@ -262,14 +262,6 @@
 		"debugExceptionWidget.background": "#1e272c",
 		"debugExceptionWidget.border": "#47474700"
 	},
-	"editor.tokenColorCustomizations": {
-		"textMateRules": [{
-			"scope": "punctuation",
-			"settings": {
-				"foreground": "#89ddffbd"
-			}
-		}]
-	},
 	"tokenColors": [
 		{
 		  "name": "unison punctuation",
